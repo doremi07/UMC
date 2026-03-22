@@ -1,7 +1,7 @@
 import SwiftUI
 
 extension Color {
-    static let loginButtonColor = Color(red: 0.44, green: 0.18, blue: 0.9) //
+    static let loginButtonColor = Color(red: 0.4, green: 0.05, blue: 0.85) //
     static let signUpTextColor = Color.gray
     static let fieldTextColor = Color.gray
     static let pinkBackground = Color(red: 0.98, green: 0.9, blue: 0.9)
