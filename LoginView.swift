@@ -107,7 +107,7 @@ struct SignUpButtonView: View {
 struct SocialLoginView: View {
     var body: some View {
         HStack(spacing: 24) {
-            Image(.social) // 네이버
+            Image(.social)
                 .resizable()
                 .frame(width: 266, height: 40, alignment: .top)
             
